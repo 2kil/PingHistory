@@ -1,0 +1,6 @@
+{
+  "port": 8787,
+  "listen": "0.0.0.0",
+  "open_browser": false,
+  "retention_days": 3
+}

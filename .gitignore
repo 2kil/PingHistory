@@ -1,0 +1,16 @@
+# 构建与运行产生的临时内容
+.tmp_build/
+.tmp_builds/
+.tmp_check.exe
+.shots/
+.playwright-cli/
+dist/
+*.log
+# 运行时数据（SQLite 库、日志、图标缓存）
+data/
+
+# 依赖
+web/node_modules/
+
+# 可执行文件
+PingHistory.exe
